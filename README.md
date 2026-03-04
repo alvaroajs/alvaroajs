@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Álvaro+Silva;Olá,+meu+nome+é+Álvaro+Silva!+:%29)](https://git.io/typing-svg)
 
 ### Sobre mim:
-Me chamo **Álvaro Silva**, tenho 26 anos, atualmente estou no 7º período do curso de **Engenharia de Computação no CEFET-MG** e tenho grande interesse em **Inteligência Artificial** e **Desenvolvimento Back-End**. 
+Me chamo **Álvaro Silva**, atualmente estou no 7º período do curso de **Engenharia de Computação no CEFET-MG** e tenho grande interesse em **Inteligência Artificial** e **Desenvolvimento Back-End**. 
 
 ### 🌍 Localização  
 [Divinópolis – MG](https://www.google.com/maps/place/Divin%C3%B3polis+-+MG)
