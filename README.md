@@ -18,13 +18,11 @@ Me chamo **Álvaro Silva**, atualmente estou no 7º período do curso de **Engen
 <br/>
 
 
-
-
-[![Álvaro Silva GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=alvaroajs&bg_color=0d1117&color=00bfbf&line=00ffbf&point=00ffbf&area=true&hide_border=true)](https://github.com/alvaroajs)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alvaroajs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvaroajs/alvaroajs/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvaroajs/alvaroajs/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alvaroajs/alvaroajs/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 
   
